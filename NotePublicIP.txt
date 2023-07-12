@@ -1,6 +1,0 @@
-flask
-numpy
-pickle
-
-pyngrok
-ngrok http 4000
